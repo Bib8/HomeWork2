@@ -108,6 +108,6 @@ public class Main {
         System.out.println("Маша теперь получает " + (MarySalaryPromo) + "рублей. Годовой доход вырос на " + (MarySalaryDifPerYear) + "рублей");
         System.out.println("Денис теперь получает " + (DenSalaryPromo) + "рублей. Годовой доход вырос на " + (DenSalaryDifPerYear) + "рублей");
         System.out.println("Кристина теперь получает " + (CrisSalaryPromo) + "рублей. Годовой доход вырос на " + (CrisSalaryDifPerYear) + "рублей");
-
+// commit
     }
 }
